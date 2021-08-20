@@ -1,8 +1,8 @@
 # social_media_ui
 
 Social media ui using flutter :
-Curve Cliver
-page view 
-animation builder 
+1-Curve Cliver /n
+2-page view /n
+3-animation builder /n 
 
 
